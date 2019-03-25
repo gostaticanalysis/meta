@@ -12,3 +12,7 @@ If you have request for a new analyzer or tool, please file a issue.
 
 [vetgen](https://github.com/gostaticanalysis/vetgen) is good starting point.
 Let's start apply static analysis to your code base!
+
+## What should I begin to develop a static analysis tool?
+
+[skeleton](https://github.com/gostaticanalysis/skeleton) helps developing static analysis tools.
